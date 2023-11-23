@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+}
+
+.items{
+    display: flex;
+    order: 3;
+    flex-shrink: 5;
+}
